@@ -25,4 +25,6 @@ dependencies = [
     "torchvision>=0.22.0",
 ]
 log_cli = "True"
-testpaths = "tests/"
+
+
+uv run roboflow import -w waste-segregation-image-dataset -p waste-segregation-image-dataset -c 20 Dataset
