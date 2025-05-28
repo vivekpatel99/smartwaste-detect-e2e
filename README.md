@@ -1,6 +1,13 @@
 # ♻️ Smart Waste Detection - End-to-End Project 🗑️
 
 This project aims to develop an end-to-end solution for smart waste detection and segregation using object detection techniques. The system will be able to identify different types of waste from images and provide information for proper disposal.
+## About Dataset
+This Image dataset has been divided into train and val folders and into Biodegradable and non-biodegradable folders.
+
+Each category has 4 classes. 
+**For Biodegradable class:** paper, leaf, food, wood
+
+**For Non-Biodegradable class:** ewaste, plastic bags, plastic bottles, metal cans
 
 ## 🚀 Project Workflow
 

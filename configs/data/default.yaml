@@ -1,0 +1,4 @@
+defaults:
+  - datasets
+
+dataset_dir_name: "Waste-Segregation-Image-Dataset-2"
